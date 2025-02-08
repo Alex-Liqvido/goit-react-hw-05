@@ -1,0 +1,23 @@
+/* MovieReviews.module.css */
+
+.container {
+    padding: 20px;
+  }
+  
+  .reviewList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .reviewItem {
+    margin-bottom: 20px;
+    text-align: justify;
+  }
+  
+  .reviewItem h3 {
+    margin: 0;
+  }
+  
+  .reviewItem p {
+    margin: 5px 0;
+  }

@@ -1,0 +1,36 @@
+/* MovieCast.module.css */
+
+.container {
+    padding: 20px;
+  }
+  
+  .castList {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+    flex-wrap: wrap;
+  }
+  
+  .castItem {
+    text-align: center;
+  }
+  
+  .castImage {
+    border-radius: 5px;
+    width: 150px;
+    margin-bottom: 10px;
+  }
+  
+  .castInfo {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .castName,
+  .castCharacter {
+    margin: 5px 0;
+    word-wrap: break-word;
+    font-size: 18px;
+  }

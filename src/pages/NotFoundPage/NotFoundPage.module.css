@@ -1,0 +1,30 @@
+/* NotFoundPage.module.css */
+
+.container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .title {
+    font-size: 3rem;
+    color: #ff4c4c;
+  }
+  
+  .text {
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  .homeLink {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .homeLink:hover {
+    background-color: #0056b3;
+  }

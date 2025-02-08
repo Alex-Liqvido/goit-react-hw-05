@@ -1,0 +1,32 @@
+/* MovieList.module.css */
+
+.movieList {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+  }
+  
+  .movieItem {
+    text-align: center;
+  }
+  
+  .movieLink {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .moviePoster {
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .movieTitle {
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    max-width: 200px;
+    white-space: normal;
+    word-wrap: break-word;
+  }

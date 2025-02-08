@@ -1,0 +1,27 @@
+/* Navigation.module.css */
+
+nav {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .link {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 18px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .link:hover {
+    color: #0056b3;
+  }
+  
+  .link.active {
+    color: #dc3545;
+    font-weight: bold;
+    border-bottom: 2px solid #dc3545;
+  }
