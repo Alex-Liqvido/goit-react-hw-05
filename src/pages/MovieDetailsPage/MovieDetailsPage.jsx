@@ -30,7 +30,7 @@ import {
             {
               headers: {
                 Authorization:
-                  "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5NDE5MmVhNzI4MWE4ZGRkY2Y4NWQzNGY0ZjU0MWNkNSIsIm5iZiI6MTcyNjkyNTYyMi4xODQ5MTYsInN1YiI6IjY2ZWRhZmMyMTkyM2ZlMDMyN2FkZTkzNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.CbpBhMGMc8FenSUP-azVQg86igYBYKq3K4kY6PxzbBY",
+                  "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiYWY0YTUxZmYwNmU0NDIyNzVmYWEzODUyZjU0OTQyYSIsIm5iZiI6MTczOTAxMzY3OC4yOTksInN1YiI6IjY3YTczZTJlYmYwYTlmNmY1NGUwNjdlYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ktGadCIWIOWKl6Wzb7UPLtbcdaoyCZcfh3u9Scn53Dk",
               },
             }
           );
